@@ -1,1 +1,2 @@
 # sleepy-creatures
+<!DOCTYPE html>
